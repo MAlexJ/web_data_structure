@@ -1,5 +1,8 @@
 .idea
 *.iml
 target
+*.db
 *.yml
+db
 *.log
+db/db_console.db
