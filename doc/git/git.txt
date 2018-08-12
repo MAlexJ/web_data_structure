@@ -1,0 +1,2 @@
+1. use "git checkout -- <file>..." to discard changes in working directory)
+    example: git checkout db/db_app.db
